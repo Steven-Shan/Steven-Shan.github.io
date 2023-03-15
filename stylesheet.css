@@ -11,7 +11,7 @@ h1.myfirstHeadline {
 
 /* styling the class */
 /* Change at least two box model properties of any tag, class or ID*/
-a.Calculators {
+p.calc {
     background-color: yellow;
     border: 15px solid green;
     padding: 50px
