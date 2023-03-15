@@ -23,5 +23,5 @@ a {
 
 /* Use a CSS selector to change the color of<a> when you hover the cursor over it*/
 a:hover {
-    color: orange
+    color: blue
   }
