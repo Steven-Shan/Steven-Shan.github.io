@@ -1,20 +1,28 @@
+/* Change at least two box model properties of any tag, class or ID*/
 div {
-    border: 15px solid green;
+    border: 15px solid  red;
     padding: 50px
 }
 
+/* styling the ID */
 h1.myfirstHeadline {
-    background-color: black
+    background-color: rgb(201, 35, 193)
 }
 
+/* styling the class */
+/* Change at least two box model properties of any tag, class or ID*/
+
 div.Calculators {
-    background-color: yellow
+    background-color: yellow;
+    border: 15px solid green;
+    padding: 50px
 }
 
 a {
     color: greenyellow
 }
 
+/* Use a CSS selector to change the color of<a> when you hover the cursor over it*/
 a:hover {
     color: orange
   }
